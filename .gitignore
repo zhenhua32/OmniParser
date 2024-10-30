@@ -3,3 +3,6 @@ weights/icon_caption_florence
 weights/icon_detect/
 .gradio
 __pycache__
+__pycache__/
+*.pyc
+venv/
